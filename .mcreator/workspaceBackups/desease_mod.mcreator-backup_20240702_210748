@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "WaterBar",
+      "type": "overlay",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bar",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/client/screens/WaterBarOverlay.java"
+        ]
+      },
+      "path": "~/Thirst bar"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "water_amount",
+      "type": "number",
+      "scope": "map",
+      "value": "20.0"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Temperature bar ",
+        "children": []
+      },
+      {
+        "name": "Thirst bar",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "desease_mod",
+    "modName": "Desease_mod",
+    "version": "1.0.0",
+    "author": "ACER, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.deseasemod"
+  },
+  "mcreatorVersion": 202400118518
+}

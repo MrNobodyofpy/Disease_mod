@@ -1,0 +1,228 @@
+{
+  "_fv": 60,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "full_w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "0w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "1w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "2w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "3w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "4w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "5w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "6w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "7w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "8w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "9w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "10w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "11w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "12w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "13w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "14.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "15w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "16w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "17w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "18w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "19w.png",
+          "use1Xscale": false,
+          "anchorPoint": "CENTER",
+          "x": 223,
+          "y": 190
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
