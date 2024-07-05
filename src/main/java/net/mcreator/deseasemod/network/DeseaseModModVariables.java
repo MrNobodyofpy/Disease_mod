@@ -105,7 +105,7 @@ public class DeseaseModModVariables {
 
 	public static class PlayerVariables {
 		public double water_amount = 20.0;
-		public double water_timer = 1200.0;
+		public double water_timer = 800.0;
 
 		public void syncPlayerVariables(Entity entity) {
 			if (entity instanceof ServerPlayer serverPlayer)

@@ -1,0 +1,540 @@
+{
+  "mod_elements": [
+    {
+      "name": "WaterBar",
+      "type": "overlay",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bar",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/client/screens/WaterBarOverlay.java"
+        ]
+      },
+      "path": "~/Thirst bar"
+    },
+    {
+      "name": "Thirstbardisplaycondition20",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_20",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition20Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition19",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_19",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition19Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition18",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_18",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition18Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition17",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_17",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition17Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition16",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_16",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition16Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition15",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_15",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition15Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition14",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_14",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition14Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition13",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_13",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition13Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition12",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_12",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition12Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition11",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_11",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition11Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition10",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_10",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition10Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition9",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_9",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition9Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition8",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_8",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition8Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition7",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_7",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition7Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition6",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_6",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition6Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition5",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_5",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition5Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition4",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_4",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition4Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition3",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_3",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition3Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_2",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition2Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition1",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_1",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition1Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Thirstbardisplaycondition0",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "thirstbardisplaycondition_0",
+      "metadata": {
+        "return_type": "logic",
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/Thirstbardisplaycondition0Procedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Conditions"
+    },
+    {
+      "name": "Waterplayertickupdate",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "waterplayertickupdate",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/WaterplayertickupdateProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Thirst bar/Player tick update"
+    },
+    {
+      "name": "TESTFORNOTHING",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "testfornothing",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/deseasemod/procedures/TESTFORNOTHINGProcedure.java"
+        ],
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      },
+      "path": "~/Thirst bar"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "water_amount",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "20.0"
+    },
+    {
+      "name": "water_timer",
+      "type": "number",
+      "scope": "player_lifetime",
+      "value": "800.0"
+    }
+  ],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Temperature bar ",
+        "children": []
+      },
+      {
+        "name": "Thirst bar",
+        "children": [
+          {
+            "name": "Conditions",
+            "children": []
+          },
+          {
+            "name": "Player tick update",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "desease_mod",
+    "modName": "Desease_mod",
+    "version": "1.0.0",
+    "author": "ACER, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.deseasemod"
+  },
+  "mcreatorVersion": 202400118518
+}

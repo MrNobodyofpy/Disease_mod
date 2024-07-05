@@ -9,6 +9,9 @@
         "data": {
           "image": "full_w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition20"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -19,6 +22,9 @@
         "data": {
           "image": "0w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition0"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -29,6 +35,9 @@
         "data": {
           "image": "1w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition1"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -39,6 +48,9 @@
         "data": {
           "image": "2w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition2"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -49,6 +61,9 @@
         "data": {
           "image": "3w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition3"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -59,6 +74,9 @@
         "data": {
           "image": "4w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition4"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -69,6 +87,9 @@
         "data": {
           "image": "5w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition5"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -79,6 +100,9 @@
         "data": {
           "image": "6w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition6"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -89,6 +113,9 @@
         "data": {
           "image": "7w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition7"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -99,6 +126,9 @@
         "data": {
           "image": "8w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition8"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -109,6 +139,9 @@
         "data": {
           "image": "9w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition9"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -119,6 +152,9 @@
         "data": {
           "image": "10w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition10"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -129,6 +165,9 @@
         "data": {
           "image": "11w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition11"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -139,6 +178,9 @@
         "data": {
           "image": "12w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition12"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -149,6 +191,9 @@
         "data": {
           "image": "13w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition13"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -159,6 +204,9 @@
         "data": {
           "image": "14.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition14"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -169,6 +217,9 @@
         "data": {
           "image": "15w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition15"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -179,6 +230,9 @@
         "data": {
           "image": "16w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition16"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -189,6 +243,9 @@
         "data": {
           "image": "17w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition17"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -199,6 +256,9 @@
         "data": {
           "image": "18w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition18"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190
@@ -209,6 +269,9 @@
         "data": {
           "image": "19w.png",
           "use1Xscale": false,
+          "displayCondition": {
+            "name": "Thirstbardisplaycondition19"
+          },
           "anchorPoint": "CENTER",
           "x": 223,
           "y": 190

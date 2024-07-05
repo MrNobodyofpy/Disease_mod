@@ -134,6 +134,15 @@ Adding Libraries to Inheritance
 Reading Input: C:\Users\ACER\MCreatorWorkspaces\desease_mod\build\libs\modid-1.0.jar
 Adding input to inheritance map
 Processing entries
+Conflicting propagated mapping for net/minecraft/world/entity/LivingEntity/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V from net/minecraft/world/entity/player/Player/lambda$addAdditionalSaveData$3(Lnet/minecraft/nbt/CompoundTag;Lnet/minecraft/nbt/Tag;)V: lambda$addAdditionalSaveData$3 -> m_219754_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z from net/minecraft/server/level/ServerPlayer/isInvulnerableTo(Lnet/minecraft/world/damagesource/DamageSource;)Z: isInvulnerableTo -> m_6673_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/canHarmPlayer(Lnet/minecraft/world/entity/player/Player;)Z from net/minecraft/server/level/ServerPlayer/canHarmPlayer(Lnet/minecraft/world/entity/player/Player;)Z: canHarmPlayer -> m_7099_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/updateOptions(Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V from net/minecraft/server/level/ServerPlayer/updateOptions(Lnet/minecraft/network/protocol/game/ServerboundClientInformationPacket;)V: updateOptions -> m_9156_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/displayClientMessage(Lnet/minecraft/network/chat/Component;Z)V from net/minecraft/server/level/ServerPlayer/displayClientMessage(Lnet/minecraft/network/chat/Component;Z)V: displayClientMessage -> m_5661_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/die(Lnet/minecraft/world/damagesource/DamageSource;)V from net/minecraft/server/level/ServerPlayer/die(Lnet/minecraft/world/damagesource/DamageSource;)V: die -> m_6667_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/tick()V from net/minecraft/server/level/ServerPlayer/tick()V: tick -> m_8119_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/getServer()Lnet/minecraft/server/MinecraftServer; from net/minecraft/world/entity/Entity/getServer()Lnet/minecraft/server/MinecraftServer;: getServer -> m_20194_
+Conflicting propagated mapping for net/minecraftforge/common/util/FakePlayer/awardStat(Lnet/minecraft/stats/Stat;I)V from net/minecraft/server/level/ServerPlayer/awardStat(Lnet/minecraft/stats/Stat;I)V: awardStat -> m_6278_
 Adding extras
 Sorting
 Writing Output: C:\Users\ACER\MCreatorWorkspaces\desease_mod\build\reobfJar\output.jar
@@ -145,26 +154,141 @@ Writing Output: C:\Users\ACER\MCreatorWorkspaces\desease_mod\build\reobfJar\outp
   assets/desease_mod/lang/
   assets/desease_mod/lang/en_us.json
   assets/desease_mod/textures/
-  assets/desease_mod/textures/item/
-  assets/desease_mod/textures/item/best_temperature.png
-  assets/desease_mod/textures/item/cold1_texture.png
-  assets/desease_mod/textures/item/cold2_texture.png
-  assets/desease_mod/textures/item/cold3_texture.png
-  assets/desease_mod/textures/item/cold_texture.png
-  assets/desease_mod/textures/item/hot1_texture.png
-  assets/desease_mod/textures/item/hot2_texture.png
-  assets/desease_mod/textures/item/hot_texture.png
   assets/desease_mod/textures/screens/
+  assets/desease_mod/textures/screens/0p.png
+  assets/desease_mod/textures/screens/0w.png
+  assets/desease_mod/textures/screens/10p.png
+  assets/desease_mod/textures/screens/10w.png
+  assets/desease_mod/textures/screens/11p.png
+  assets/desease_mod/textures/screens/11w.png
+  assets/desease_mod/textures/screens/12p.png
+  assets/desease_mod/textures/screens/12w.png
+  assets/desease_mod/textures/screens/13p.png
+  assets/desease_mod/textures/screens/13w.png
+  assets/desease_mod/textures/screens/14.png
+  assets/desease_mod/textures/screens/14p.png
+  assets/desease_mod/textures/screens/15p.png
+  assets/desease_mod/textures/screens/15w.png
+  assets/desease_mod/textures/screens/16p.png
+  assets/desease_mod/textures/screens/16w.png
+  assets/desease_mod/textures/screens/17p.png
+  assets/desease_mod/textures/screens/17w.png
+  assets/desease_mod/textures/screens/18p.png
+  assets/desease_mod/textures/screens/18w.png
+  assets/desease_mod/textures/screens/19p.png
+  assets/desease_mod/textures/screens/19w.png
+  assets/desease_mod/textures/screens/1p.png
+  assets/desease_mod/textures/screens/1w.png
+  assets/desease_mod/textures/screens/2p.png
+  assets/desease_mod/textures/screens/2w.png
+  assets/desease_mod/textures/screens/3p.png
+  assets/desease_mod/textures/screens/3w.png
+  assets/desease_mod/textures/screens/4p.png
+  assets/desease_mod/textures/screens/4w.png
+  assets/desease_mod/textures/screens/5p.png
+  assets/desease_mod/textures/screens/5w.png
+  assets/desease_mod/textures/screens/6p.png
+  assets/desease_mod/textures/screens/6w.png
+  assets/desease_mod/textures/screens/7p.png
+  assets/desease_mod/textures/screens/7w.png
+  assets/desease_mod/textures/screens/8p.png
+  assets/desease_mod/textures/screens/8w.png
+  assets/desease_mod/textures/screens/9p.png
+  assets/desease_mod/textures/screens/9w.png
   assets/desease_mod/textures/screens/best_temperature.png
   assets/desease_mod/textures/screens/cold0_texture.png
   assets/desease_mod/textures/screens/cold1_texture.png
   assets/desease_mod/textures/screens/cold2_texture.png
   assets/desease_mod/textures/screens/cold3_texture.png
+  assets/desease_mod/textures/screens/full_po.png
+  assets/desease_mod/textures/screens/full_w.png
   assets/desease_mod/textures/screens/hot1_texture.png
   assets/desease_mod/textures/screens/hot2_texture.png
   assets/desease_mod/textures/screens/hot3_texture.png
+  assets/desease_mod/textures/screens/w20/
+  assets/desease_mod/textures/screens/w20/20.png
+  assets/desease_mod/textures/screens/water_drops-1.png
+  assets/desease_mod/textures/screens/water_drops.png
   net/
   net/mcreator/
   net/mcreator/deseasemod/
   net/mcreator/deseasemod/DeseaseModMod.class
+  net/mcreator/deseasemod/client/
+  net/mcreator/deseasemod/client/screens/
+  net/mcreator/deseasemod/client/screens/WaterBarOverlay.class
+  net/mcreator/deseasemod/network/
+  net/mcreator/deseasemod/network/DeseaseModModVariables$1.class
+  net/mcreator/deseasemod/network/DeseaseModModVariables$EventBusVariableHandlers.class
+  net/mcreator/deseasemod/network/DeseaseModModVariables$PlayerVariables.class
+  net/mcreator/deseasemod/network/DeseaseModModVariables$PlayerVariablesProvider.class
+  net/mcreator/deseasemod/network/DeseaseModModVariables$PlayerVariablesSyncMessage.class
+  net/mcreator/deseasemod/network/DeseaseModModVariables.class
+  net/mcreator/deseasemod/procedures/
+  net/mcreator/deseasemod/procedures/DrinkwithoutbottlesProcedure$1.class
+  net/mcreator/deseasemod/procedures/DrinkwithoutbottlesProcedure$2.class
+  net/mcreator/deseasemod/procedures/DrinkwithoutbottlesProcedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition0Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition0Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition0Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition10Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition10Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition10Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition11Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition11Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition11Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition12Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition12Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition12Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition13Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition13Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition13Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition14Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition14Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition14Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition15Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition15Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition15Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition16Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition16Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition16Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition17Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition17Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition17Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition18Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition18Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition18Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition19Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition19Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition19Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition1Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition1Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition1Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition20Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition20Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition20Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition2Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition2Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition2Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition3Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition3Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition3Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition4Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition4Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition4Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition5Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition5Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition5Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition6Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition6Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition6Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition7Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition7Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition7Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition8Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition8Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition8Procedure.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition9Procedure$1.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition9Procedure$2.class
+  net/mcreator/deseasemod/procedures/Thirstbardisplaycondition9Procedure.class
+  net/mcreator/deseasemod/procedures/WaterplayertickupdateProcedure.class
   pack.mcmeta
